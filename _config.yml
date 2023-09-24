@@ -22,8 +22,8 @@ author: Inyoung.Choi
 navbar-links:
   Professor: "Professor"
   Members:
-    - Ph.D Students: "PhD"
-    - M.S. Students: "Master"
+    - Ph.D Candidates: "PhD"
+    - M.S. Candidates: "Master"
     - Undergraduated: "Undergraduated"
     - Alumni: "Alumni"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
