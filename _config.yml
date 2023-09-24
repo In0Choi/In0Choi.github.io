@@ -29,14 +29,16 @@ navbar-links:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Professor: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
-  Project:
+  Research:
+    - Ongoing: "Ongoing"
+    - Outdated: "Outdated"
   Publications:
-    - International Journals:
-    - Domestic Journals:
-    - International Conferences:
-    - Domestic Conference:
-    - Patents:
-  Contact:
+    - International Journals: "InternationalJournals"
+    - Domestic Journals: "Domestic Journals"
+    - International Conferences: "International Conferences"
+    - Domestic Conference: "Domestic Conference"
+    - Patents: "Patenst"
+  Contact: "Contact"
 
 ################
 # --- Logo --- #
