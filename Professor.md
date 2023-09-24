@@ -6,7 +6,7 @@ subtitle: Cho, Donghyun / donghyun.cho@pusan.ac.kr
 
 ### Education
 
-**Bachelor's Degree (1999~2003s)**\n
+**Bachelor's Degree (1999~2003s)**<br>
 Aerospace Engineering, Pusan National University, Busan, South Korea
 
 **Master's Degree (2004s~2006s)**
