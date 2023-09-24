@@ -20,6 +20,7 @@ Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Min-Jae Tahk)<br>
 Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Hyochoong Bang)<br>
 *Dissertation: Spacecraft Trajectory Correction Maneuver Design using the Improved B-plane Targeting Method*
 
+  
 
 ### Experience
 **Scholarship Student (2004s~2011)**<br>
