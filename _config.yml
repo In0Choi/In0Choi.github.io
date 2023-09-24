@@ -23,7 +23,7 @@ navbar-links:
   Professor: "Professor"
   Members:
     - Ph.D Students:
-    - M.S. Students:
+    - M.S. Students: "Master"
     - Undergraduated:
     - Alumni:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
