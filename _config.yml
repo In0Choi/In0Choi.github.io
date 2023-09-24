@@ -34,9 +34,9 @@ navbar-links:
     - Outdated: "Outdated"
   Publications:
     - International Journals: "InternationalJournals"
-    - Domestic Journals: "Domestic Journals"
-    - International Conferences: "International Conferences"
-    - Domestic Conference: "Domestic Conference"
+    - Domestic Journals: "DomesticJournals"
+    - International Conferences: "InternationalConferences"
+    - Domestic Conference: "DomesticConference"
     - Patents: "Patenst"
   Contact: "Contact"
 
