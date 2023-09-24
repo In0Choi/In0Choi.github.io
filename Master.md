@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-subtitle: Master's Students
+subtitle: Master's Candidates
 ---
 
 **Lee, Changhyun**  
