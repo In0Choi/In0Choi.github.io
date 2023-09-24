@@ -4,7 +4,7 @@ title: Research
 subtitle: Outdated projects
 ---
 
-### PNUSAT-1 (2019~2022 with FDL)  
+### PNUSAT-1 (2019~2022 with FDL @ PNU)  
 ![Ongoing1](/assets/img/Ongoing1.jpg)  
 
 <br>
