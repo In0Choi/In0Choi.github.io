@@ -4,7 +4,7 @@ title: Professor
 subtitle: Cho, Donghyun / donghyun.cho@pusan.ac.kr
 ---
 
-![Cho, Donghyun](/assets/img/조동현.jpg){:width="210px" height="270px"}
+![Cho, Donghyun](/assets/img/조동현.png){:width="210px" height="270px"}
 
 
 ### Education
