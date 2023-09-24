@@ -22,10 +22,10 @@ author: Inyoung.Choi
 navbar-links:
   Professor: "Professor"
   Members:
-    - Ph.D Students:
+    - Ph.D Students: "PhD"
     - M.S. Students: "Master"
-    - Undergraduated:
-    - Alumni:
+    - Undergraduated: "Undergraduated"
+    - Alumni: "Alumni"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Professor: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
