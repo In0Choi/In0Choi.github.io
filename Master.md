@@ -5,7 +5,7 @@ subtitle: Master's Students
 ---
 
 **Lee, Changhyun**  
-![이창현](/assets/img/이창현.jpg){: width="140px" height="180px" :}
+![이창현](/assets/img/이창현.jpg){: width="140px" height="180px"}
 
 - Research Interest: Constellation
 - Mail: john2604@pusan.ac.kr
