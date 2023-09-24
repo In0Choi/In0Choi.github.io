@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Professor
-subtitle: Cho, Donghyun / donghyun.cho@pusan.ac.kr
+title: Members
+subtitle: Master's Students
 ---
 
+**이창현 / Lee, Changhyun**<br>
+![이창현](assets/이창현.jpg)
+Research Interest: Constellation
