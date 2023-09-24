@@ -27,5 +27,5 @@ subtitle: International Journals
 
 <br>
 
-### Other International Journal
+### Others
 1. SungTae Moon, **Dong-Hyun Cho**, Sanghyuck Han, DongYoung Rew and Eun-Sup Sim, "Development of Multiple AR.Drone Control System for Indoor Aerial Choreography", Transactions of the Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, Vol. 12, 2014.10., a59~a67(9pages)
