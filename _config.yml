@@ -21,10 +21,16 @@ author: Inyoung.Choi
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Members:
+    - Professor:
+    - Ph.D Candidates:
+    - M.S. Candidates:
+    - Undergraduated:
+    - Alumni:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Professor: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
+  Project:
 
 ################
 # --- Logo --- #
