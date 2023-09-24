@@ -10,12 +10,12 @@ subtitle: Cho, Donghyun / donghyun.cho@pusan.ac.kr
 Aerospace Engineering, Pusan National University, Busan, South Korea
 
 **Master's Degree (2004s~2006s)**<br>
-Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Min-Jae Tahk)
-Thesis: Orbit Transfer Trajectory Optimization for Small Satellite with Electric Propulsion System
+Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Min-Jae Tahk)<br>
+*Thesis: Orbit Transfer Trajectory Optimization for Small Satellite with Electric Propulsion System*
 
 **Ph.D Degree (2007~2011)**<br>
-Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Hyochoong Bang)
-Dissertation: Spacecraft Trajectory Correction Maneuver Design using the Improved B-plane Targeting Method
+Aerospace Engineering, KAIST, Daejeon, South Korea (Advisor: Hyochoong Bang)<br>
+*Dissertation: Spacecraft Trajectory Correction Maneuver Design using the Improved B-plane Targeting Method*
 
 
 ### Experience
