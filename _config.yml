@@ -23,14 +23,21 @@ navbar-links:
   About Me: "aboutme"
   Members:
     - Professor:
-    - Ph.D Candidates:
-    - M.S. Candidates:
+    - Ph.D Students:
+    - M.S. Students:
     - Undergraduated:
     - Alumni:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Professor: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
   Project:
+  Publications:
+    - International Journals:
+    - Domestic Journals:
+    - International Conferences:
+    - Domestic Conference:
+    - Patents:
+  Contact:
 
 ################
 # --- Logo --- #
