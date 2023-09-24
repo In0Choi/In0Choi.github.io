@@ -54,7 +54,6 @@ subtitle: Undergraduated Students
 
 
 **Park, Jaeyeon**  
-![Park, Jaeyeon](/assets/img/박재연.jpg){:width="140px" height="180px"}
 
 - Research Interest: TBD
 - Mail: en__core@pusan.ac.kr
