@@ -2,7 +2,6 @@
 layout: post
 title: Examination S/W
 subtitle: For Numerical Analysis(2-2) & Space Science(3-1)
-published: true
 ---
 
 ### Download Link:  
