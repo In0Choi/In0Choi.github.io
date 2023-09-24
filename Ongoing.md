@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: On-going project
+subtitle: On-going projects
 ---
 
 
