@@ -12,7 +12,7 @@ subtitle: Master's Students
 
 
 **Lim, Jaewook**  
-<img src="assets/img/임재욱.jpg" alt='Lim, Jaewook' width="140" height="180">
+<img src="https://github.com/PNU-SSC/PNU-SSC.github.io/blob/master/assets/img/%EC%9E%84%EC%9E%AC%EC%9A%B1.jpg" alt='Lim, Jaewook' width="140" height="180">
 
 - Research Interest: Space Robotics / ADCS / Constellation
 - Mail: urblockhead@pusan.ac.kr
