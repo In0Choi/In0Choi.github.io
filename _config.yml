@@ -37,6 +37,7 @@ navbar-links:
     - Domestic Journals: "DomesticJournals"
     - Conferences: "Conferences"
     - Patents: "Patents"
+  Notice: "Notice"
   Contact: "Contact"
 
 ################
