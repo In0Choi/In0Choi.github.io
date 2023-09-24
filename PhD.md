@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Members
-subtitle: PhD Students
+subtitle: Ph.D Students
 ---
 
