@@ -5,7 +5,7 @@ subtitle: Master's Students
 ---
 
 **Lee, Changhyun**  
-<img src="https://github.com/PNU-SSC/PNU-SSC.github.io/blob/master/assets/img/%EC%9D%B4%EC%B0%BD%ED%98%84.jpg" alt='Lee, Changhyun' width="140" height="180">
+![이창현](/assets/img/이창현.jpg){: width="140px" height="180px" :}
 
 - Research Interest: Constellation
 - Mail: john2604@pusan.ac.kr
