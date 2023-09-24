@@ -14,3 +14,7 @@ subtitle: Master's Students
 <img src="assets/img/임재욱.jpg" alt='임재욱' width="140" height="180"><br>
 - Research Interest: Space Robotics / ADCS / Constellation<br>
 - Mail: urblockhead@pusan.ac.kr
+
+<div style="width: 140px; height: 180px;">
+  ![이창현](assets/img/이창현.jpg)
+<\div>
