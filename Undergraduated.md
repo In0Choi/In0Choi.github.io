@@ -11,11 +11,13 @@ subtitle: Undergraduated Students
 - Mail: hdw113@pusan.ac.kr
 
 
+
 **Choi, Inyoung**  
 ![Choi, Inyoung](/assets/img/최인영.jpg){:width="140px" height="180px"}
 
 - Research Interest: ADCS / Relative dynamics
 - Mail: dlsdud611@pusan.ac.kr
+
 
 
 **Cho, Sunghyeon**  
@@ -25,11 +27,13 @@ subtitle: Undergraduated Students
 - Mail: tjdgus854059@pusan.ac.kr
 
 
+
 **Bae, Hyoyong**  
 ![Bae, Hyoyong](/assets/img/배효용.jpg){:width="140px" height="180px"}
 
 - Research Interest: Deep learning / Pose estimation
 - Mail: amir714@pusan.ac.kr
+
 
 
 **Park, Kyungmi**  
@@ -39,6 +43,7 @@ subtitle: Undergraduated Students
 - Mail: ko2649@pusan.ac.kr
 
 
+
 **Kim, Wongi**  
 ![Kim, Wongi](/assets/img/김원기.jpg){:width="140px" height="180px"}
 
@@ -46,11 +51,13 @@ subtitle: Undergraduated Students
 - Mail: dnjsrl6028@pusan.ac.kr
 
 
+
 **Kim, Seongmin**  
 ![Kim, Seongmin](/assets/img/김성민.jpg){:width="140px" height="180px"}
 
 - Research Interest: Optimization / cSP
 - Mail: kimseong7447@pusan.ac.kr
+
 
 
 **Park, Jaeyeon**  
